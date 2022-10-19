@@ -1,2 +1,2 @@
 # sourcecode
-Just collection of the code
+Just collection of the code for education stuff
